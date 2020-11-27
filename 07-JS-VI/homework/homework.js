@@ -8,7 +8,7 @@ function invocarCallback(cb) {
 
 function sumarArray(numeros, cb) {
   // Suma todos los números enteros (int/integers) de un array ("numeros")
-  // Pasa el resultado a `cb`
+  // Pasa el resultado a `cb`. 'cb' sigue siendo un callback.
   // No es necesario devolver nada
 
   const sumaDeNumeros = numeros.reduce(function(a, b) {
@@ -33,7 +33,6 @@ function map(array, cb) {
   array.forEach(function(elemento2){
     arrayNuevo.push(cb(elemento2))
   });
-  return arrayNuevo
 }
 
 // No modificar nada debajo de esta línea
