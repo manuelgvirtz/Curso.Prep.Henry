@@ -1,0 +1,18 @@
+For
+
+Es un tipo de función que se ejecuta en repetición hasta que se cumple la condición que la hace parar. Sirve para automatizar ordenes repetitivas. 
+
+
+&&
+
+Es un operador lógico, sirve para comparar argumentos. Utilizando && un argumento se compara con otros más, debiendo ser siempre cierto para que el resultado sea verdadero, caso contrario es falso. Esto sirve para simplificar la escritura y complejizar la lógica de las condiciones de las funciones. 
+
+
+||
+
+Al igual que el &&, el || es un operador lógico, que significa "o". Un argumento se compara con otros y alcanza con que sea igual a uno de ellos para que el output sea verdadero. 
+
+
+!
+
+Un operador lógico que compara un argumento con otro y lo da como verdadero solo si éstos no son iguales. 

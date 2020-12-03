@@ -22,5 +22,8 @@
   "license": "ISC",
   "jest": {
     "testURL": "http://localhost/"
+  },
+  "dependencies": {
+    "mathjs": "^8.0.1"
   }
 }

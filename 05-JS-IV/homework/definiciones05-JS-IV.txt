@@ -1,0 +1,23 @@
+Objeto
+
+Es un tipo de dato de suma importancia. Dentro de la definición de objeto entran todas las variables (integers, strings, booleanos, undefined, null). Los objetos pueden tener propiedades y métodos. Siempre se definen con un nombre, que permite utilizarlo en otros lugares del código.
+
+
+Propiedades
+
+Es una característica de un objeto. En la definición del objeto uno puede definir propiedades que luego servirán para utilizarlo. Las propiedades pueden aplicarse a todo el contenido de un objeto o a partes puntuales. 
+
+
+Método
+
+Es una función dentro de un objeto. Adentro de los objetos se pueden definir funciones y luego utilizarlas. A diferencia de la función, para invocar un método la sintaxis es diferente, objeto.método .
+
+
+Bucle for...in
+
+Es una función que corre repetidas veces hasta que se cumple la condición que da fin a su ejecución. A diferencia del bucle for común, el for in mira dentro de una propiedad del objeto y se ejecuta hasta que cumpla la condición de finalización.
+
+
+Notación de puntos vs notación de llaves
+
+En un objeto, la notación de puntos es útil cuando el método al cual se quiere referir está representado literalmente dentro de la función. En caso de querer que sea un argumento de la función y que éste cambie, debe utilizarse corchete. En el caso de los arrays, los corchetes sirven para referirse a la posición del objeto al cual se quiere llamar. 

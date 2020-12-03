@@ -1,0 +1,7 @@
+Prototype
+
+Son las propiedades que tiene la función creadora de objetos. Al usar una función constructora o una clase, esta puede tener predefinidas propiedades que se pueden invocar utilizando el comando prototype. Todos los objetos tienen propiedades en su prototipo que heredan. 
+
+Constructor
+
+El constructor es un método del objeto clase que permite crear objetos nuevos con las propiedades de la clase invocada. Crear una clase para que luego cree distintos objetos sirve para homogeneizar las propiedades de estos y eficientizar el código. 

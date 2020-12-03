@@ -1,0 +1,23 @@
+Variable
+
+Una variable es contenedor de datos. Permite almacenar distinto tipo de información, incluyendo distintas categorías distintas de datos.
+
+
+Strings
+
+Es un tipo de Variable. Particularmente refiere a texto. Se escribe entre comillas ("").
+
+
+Funciones
+
+Es un tipo particular de código que le indica a la computadora una serie de acciones que debe tomar. La función se alimenta de imputs, llamados argumentos, que el usuario le indica cuáles son o de dónde debe sacarlos, con ellos hace lo que uno le ordena que haga. Return es un statement que le ordena a la computadora que devuelva determinado valor dependiendo de lo que ocurrió dentro de la función. 
+
+
+If
+
+Es un tipo de declaración que se usa en las funciones para separar las acciones de la función dependiendo de determinadas condiciones. Si las condiciones se cumplen la computadora hace determinada función, si no hace otra. 
+
+
+Booleanos
+
+Es un tipo de variable que tiene dos posibilidades: verdadero o falso. Relacionado al if, los booleanos sirven para dividir las acciones de la función en casos de comparación entre argumentos, por ejemplo.

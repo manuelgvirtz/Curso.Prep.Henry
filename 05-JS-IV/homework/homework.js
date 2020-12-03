@@ -77,14 +77,13 @@ function tieneEmail(usuario) {
   if (usuario.email == undefined || usuario.email == null) {
     return false;
   }
-  else{
+  else{ 
     return true;
   }
 }
 
 
 function tienePropiedad(objeto, propiedad) {
-  // ESTE ESTA MAL LA RE CONCHA DE TU VIEJA TUCUMANO GATO
   // Devuelve "true" si el objeto tiene el valor del argumento "propiedad"
   // "propiedad" es un string
   // De lo contrario, devuelve "false"

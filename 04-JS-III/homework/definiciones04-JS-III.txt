@@ -1,0 +1,3 @@
+Arrays
+
+Un array es un objeto donde se almacenan datos en forma de lista. Es un tipo de variable. La lista se escribe entre llaves []. Sirve para simplificar el almacenamiento y la operación de series de datos que por su naturaleza tiene sentido que sean guardados y manipulados de manera conjunta.

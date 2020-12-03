@@ -1,0 +1,3 @@
+Funciones Callback
+
+Es una función utilizada como argumento de otra función. Los callbacks sirven para componer, simplificar y modulizar las funciones. De esta manera, una función que debe hacer en parte o totalmente lo que está descripto en otra, puede sencillamente invocarla y evitar crear código redundante. 
